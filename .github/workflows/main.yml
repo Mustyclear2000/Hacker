@@ -1,0 +1,21 @@
+apt update 
+
+apt upgrade 
+
+apt install python3
+
+apt install tor 
+
+apt install  wget  
+
+apt install git 
+
+git clone https://github.com/KasRoudra/pyphisher.get
+
+ls
+
+cd PyPhisher
+
+ls
+
+python3 pyphisher.py
